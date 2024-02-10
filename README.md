@@ -4,7 +4,7 @@
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://twitter.com/fraukovacic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fraukovacic" height="30" width="40" /></a>
-<a href="linkedin.com/in/barbara-kovačić-837ba5131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barbara kovačić" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/barbara-kova%C4%8Di%C4%87-837ba5131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barbara kovačić" height="30" width="40" /></a>
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
